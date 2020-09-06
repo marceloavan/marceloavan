@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Marcelo Avancini
+### 👋 Hi there, I'm Marcelo Avancini
 
 I am always looking for new technologies and best practices of software development and design, from programming languages until tools for specific solutions. Learning something new and putting into practice resolving some problems is what makes me happy.
 
