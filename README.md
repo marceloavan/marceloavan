@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am always looking for new technologies and best practices of software development and design, from programming languages until tools for specific solutions. Learning something new and putting into practice resolving some problems is what makes me happy.
+
 <!--
 **marceloavan/marceloavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
