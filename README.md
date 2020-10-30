@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Marcelo Avancini
+### 👋 Hi, I'm Marcelo Avancini
 
 I am always looking for new technologies and best practices of software development and design, from programming languages until tools for specific solutions. Learning something new and putting into practice resolving some problems is what makes me happy.
 
-- 👨‍💻 I’m currently work at [Philips](https://www.philips.com.br/) as software architect.
+- 💻 I’m currently work at [Philips](https://www.philips.com.br/) as software architect.
 
 <p align="center">
 <a href="https://twitter.com/marceloavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rochacbruno" height="20" width="20" /></a>
