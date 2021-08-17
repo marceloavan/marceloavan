@@ -2,7 +2,7 @@
 
 I'm being a programmer for the last almost 10 years, under roles as a system analyst, software designer and software architect. I'm always looking for new technologies and best practices of software development and software design, from programming languages to tools for specific solutions, but more importantly, trying to learn the main concepts behind them. Learning something new and putting into practice resolving some problems makes me happy.
 
-- 💻 I’m currently work at [Philips](https://www.philips.com.br/) as software architect.
+- 💻 I’m currently working at [Philips](https://www.philips.com.br/) as software architect.
 
 <p align="center">
 <a href="https://twitter.com/marceloavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marceloavan" height="20" width="20" /></a>
