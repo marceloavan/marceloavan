@@ -1,6 +1,10 @@
 ### 👋 Hi, I'm Marcelo Avancini
 
-I'm being a programmer for the last almost 10 years, under roles as a system analyst, software engineer, and software architect. I'm always looking for new technologies and best practices of software development and software design, from programming languages to tools for specific solutions, but more importantly, trying to learn the main concepts behind them. Learning something new and putting it into practice and resolving some problems makes me happy.
+I've been working with software development for more than 10 years. I've been a Staff software engineer leading teams and helping others achieve their goals.
+
+I have years of experience with languages like Java, Python, and JavaScript. I would also highlight other technologies like RabbitMQ, Kafka, PostgreSQL, the Oracle database, and many services at AWS (including EKS, ECS, RDS, etc.).
+
+In my current initiatives, I am part of a monolith modernization using distributed system concepts, such as messaging, event-driven, API gateway, cloud-native, and tools like Kafka, Kubernetes, and AWS services.
 
 - 💻 I’m currently working at [Philips](https://www.philips.com.br/) as software architect.
 
