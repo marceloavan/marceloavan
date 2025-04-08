@@ -6,7 +6,7 @@ I have experience in architecture modernizations using distributed system concep
 
 Last, years of experience with languages like Java, Python, and JavaScript. I would also highlight other technologies like RabbitMQ, Kafka, PostgreSQL, the Oracle database, and many services at AWS (including EKS, ECS, RDS, etc.). Generally, in a context using CI/CD, Git, GitOps, and other agile principles.
 
-- 💻 I’m currently working at [Philips](https://www.philips.com.br/) as software architect.
+- 💻 I’m currently working at [PicPay](https://www.philips.com.br/) as staff software engineer.
 
 <p align="center">
 <a href="https://twitter.com/marceloavan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marceloavan" height="20" width="20" /></a>
