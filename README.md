@@ -2,7 +2,7 @@
 
 I've been working with software development for more than 10 years. I've been a Staff software engineer leading teams and helping others achieve their goals.
 
-I have experience in architecture modernizations using distributed system concepts, such as messaging, event-driven, API gateway, cloud-native, and tools like Kafka, Kubernetes, and AWS services. Last, years of experience with languages like Java and Go, and also bringing LLMs to boost what I can do and do better.
+I have experience in architecture modernizations using distributed system concepts, such as messaging, event-driven, API gateway, cloud-native, and tools like Kafka, Kubernetes, and AWS services. Last, years of experience with languages like Java and Go, and, more recently, bringing LLMs to boost what I can do and do better.
 
 - 💻 I’m currently working at [PicPay](https://picpay.com/) as staff software engineer.
 
